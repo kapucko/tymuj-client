@@ -1,0 +1,17 @@
+!.gitignore
+
+env/
+__pycache_/
+.cache/
+.idea/
+
+*.py[co]
+*.sw[po]
+*.egg-info
+
+*.log
+*.cfg
+*.json
+*.csv
+*.conf
+exports
